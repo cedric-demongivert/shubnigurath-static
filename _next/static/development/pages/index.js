@@ -765,7 +765,7 @@ var InvestigatorPage = /*#__PURE__*/function (_PureComponent) {
         className: "col-8 col-md-4 order-md-1 col-lg-3 order-lg-1"
       }, __jsx("img", {
         className: "img-fluid",
-        src: "/images/logo.svg"
+        src: "./images/logo.svg"
       })), __jsx("div", {
         className: "col-12 d-block d-md-none"
       }, __jsx("br", null)), __jsx("div", {
@@ -3256,7 +3256,7 @@ var InitialState = /*#__PURE__*/function (_React$PureComponent) {
         className: "col-10 col-md-8 col-lg-6 col-xl-6 text-center"
       }, __jsx("img", {
         className: "img-fluid",
-        src: "/images/logo.svg"
+        src: "./images/logo.svg"
       }))), __jsx("div", {
         className: "row justify-content-center align-items-center"
       }, __jsx("div", {
@@ -3593,7 +3593,7 @@ function LoadingState(properties) {
     className: "col-10 col-md-8 col-lg-6 col-xl-6 text-center"
   }, __jsx("img", {
     className: "img-fluid",
-    src: "/images/logo.svg"
+    src: "./images/logo.svg"
   }))), __jsx("div", {
     className: "row justify-content-center align-items-center"
   }, __jsx("div", {
@@ -3643,7 +3643,7 @@ function ResolvedState(properties) {
     className: "col-10 col-md-8 col-lg-6 col-xl-6 text-center"
   }, __jsx("img", {
     className: "img-fluid",
-    src: "/images/logo.svg"
+    src: "./images/logo.svg"
   }))), __jsx("div", {
     className: "row justify-content-center align-items-center"
   }, __jsx("div", {
